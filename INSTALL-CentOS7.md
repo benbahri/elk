@@ -148,7 +148,7 @@ yum install -y filebeat
 scp server.example.com:/etc/pki/tls/certs/logstash.crt /etc/pki/tls/certs/
 ```
 ###### Configure Filebeat 
-[Refer my youtube video]
+[Refer to the youtube video]
 ###### Enable and start Filebeat service
 ```
 systemctl enable filebeat
